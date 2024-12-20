@@ -1,0 +1,15 @@
+name: "my-website"
+title: "My GitHub Website"
+output_dir: "docs"
+navbar:
+  title: "My GitHub Website"
+  left:
+    - text: "Home"
+      href: index.html
+    - text: "About"
+      href: about.html
+    - text: "Projects"
+      href: projects.html
+    - text: "Contact Me"
+      href: ContactMe.html
+      
