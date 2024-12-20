@@ -5,16 +5,30 @@
       "title": "About this site",
       "description": "Some additional details about the website",
       "author": [],
-      "contents": "\n\n\n\n",
-      "last_modified": "2024-12-20T12:10:45-05:00"
+      "contents": "\n\n\n\n\n\n\n\n\n  \n    \n      \n        \n        \n        \n      \n      My GitHub Website\n    \n    \n      \n  Home\n\n\n  About\n\n\n  Projects\n\n\n  Contact Me\n\n      \n  \n\n\n\n\n\n\nAbout this site\n\n\n\n\n\n\n\n\n\n\n\n",
+      "last_modified": "2024-12-20T12:15:40-05:00"
+    },
+    {
+      "path": "ContactMe.html",
+      "title": "Contact Me",
+      "author": [],
+      "contents": "\nHow can I get in touch with Hayden?\n\n\n\n",
+      "last_modified": "2024-12-20T12:15:40-05:00"
     },
     {
       "path": "index.html",
       "title": "My GitHub Website",
       "description": "Welcome to the website. I hope you enjoy it!\n",
       "author": [],
-      "contents": "\n\n\n\n",
-      "last_modified": "2024-12-20T12:10:45-05:00"
+      "contents": "\n\n\n\n\n\n\n\n\n  \n    \n      \n        \n        \n        \n      \n      My GitHub Website\n    \n    \n      \n  Home\n\n\n  About\n\n\n  Projects\n\n\n  Contact Me\n\n      \n  \n\n\n\n\n\n\nMy GitHub Website\n\n\n\n\n\n\n\n\n\n\n\n",
+      "last_modified": "2024-12-20T12:15:40-05:00"
+    },
+    {
+      "path": "Projects.html",
+      "title": "About Me",
+      "author": [],
+      "contents": "\nAbout Me\nI’m passionate about R programming, data science, and web development!\n\n\n\n",
+      "last_modified": "2024-12-20T12:15:42-05:00"
     }
   ],
   "collections": []
